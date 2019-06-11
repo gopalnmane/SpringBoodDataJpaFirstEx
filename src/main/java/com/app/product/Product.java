@@ -18,9 +18,7 @@ public class Product {
 		this.prodCode = prodCode;
 		this.prodCost = prodCost;
 	}
-	public Product() {
-		super();
-	}
+
 	public Product(String prodCode, Double prodCost) {
 		super();
 		this.prodCode = prodCode;
